@@ -15,4 +15,4 @@ From desktop support to network setup and cloud solutions, we’ve got your busi
 - Software & Licensing
 - Tech Consulting
 
-Need help? [Contact us](./contact).
+Need help? [Contact us]({{site.baseurl}}/contact).

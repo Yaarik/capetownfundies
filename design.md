@@ -15,4 +15,4 @@ We craft beautiful, functional spaces that reflect your lifestyle and taste.
 - Colour Consultation
 - Furniture Sourcing
 
-Let’s bring your vision to life. [Get in touch](./contact).
+Let’s bring your vision to life. [Get in touch]({{site.baseurl}}/contact).
