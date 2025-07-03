@@ -1,1 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+jekyll-theme-minimal
+# jekyll-theme-primer
+# jekyll-theme-cayman
